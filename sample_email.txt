@@ -1,9 +1,0 @@
-Subject: URGENT - Verify Your Account
-
-Dear User,
-
-Your account has been suspended.
-Click here immediately:
-http://192.168.1.10/login
-
-Thank you.

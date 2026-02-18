@@ -1,0 +1,22 @@
+=============================
+PHISHING ANALYSIS REPORT
+=============================
+
+From: support@paypal.com
+Reply-To: attacker@gmail.com
+
+URLs Found: 1
+
+http://localhost:3000/api/login
+
+Findings:
+- Suspicious keywords detected
+- IP-based URL detected
+- Non HTTPS link
+- Header mismatch
+
+Total Risk Score: 14
+Classification: PHISHING
+Confidence Level: HIGH
+
+=============================
